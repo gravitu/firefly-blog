@@ -1,0 +1,63 @@
+{
+  "name": "firefly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "astro": "^6.4.6",
+    "astro-expressive-code": "^0.43.1",
+    "astro-icon": "^1.1.5",
+    "ci-info": "^4.4.0",
+    "dayjs": "^1.11.21",
+    "expressive-code-collapsible": "^0.1.0",
+    "expressive-code-language-badge": "^1.1.0",
+    "glob": "^11.1.0",
+    "hastscript": "^9.0.1",
+    "katex": "^0.17.0",
+    "l2d-widget": "^0.1.0",
+    "mdast-util-to-string": "^4.0.0",
+    "pagefind": "^1.5.2",
+    "pako": "^2.1.0",
+    "postcss-import": "^16.1.1",
+    "postcss-nesting": "^13.0.2",
+    "prettier": "^3.8.1",
+    "qrcode": "^1.5.4",
+    "reading-time": "^1.5.0",
+    "rehype-autolink-headings": "^7.1.0",
+    "rehype-callouts": "^2.1.2",
+    "rehype-components": "^0.3.0",
+    "rehype-katex": "^7.0.1",
+    "rehype-slug": "^6.0.0",
+    "remark-admonition-to-blockquote-callout": "^1.0.0",
+    "remark-directive": "^3.0.1",
+    "remark-math": "^6.0.0",
+    "remark-sectionize": "^2.1.0",
+    "sanitize-html": "^2.17.5",
+    "satori": "^0.26.0",
+    "satteri": "^0.8.1",
+    "sharp": "^0.34.5",
+    "stylus": "^0.64.0",
+    "svelte": "^5.56.3",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^5.9.3",
+    "unist-util-visit": "^5.1.0",
+    "volar-service-prettier": "^0.0.70",
+    "wrangler": "^4.99.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "build": "astro build"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gravitu/firefly-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gravitu/firefly-blog/issues"
+  },
+  "homepage": "https://github.com/gravitu/firefly-blog#readme"
+}
